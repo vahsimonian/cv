@@ -434,10 +434,14 @@ header {
 .footer__link:hover,
 .social-list__link:hover {
   opacity: 0.6;
+  transition: all .5s ease-in-out;
 }
 
 .footer__link:hover {
+  /* transform; */
   text-decoration: underline;
+  color: #fff;
+  
 }
 
 .social-list {

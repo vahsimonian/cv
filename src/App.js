@@ -160,7 +160,7 @@ function App() {
           </Link>
 
           {/* Portfolio item 04 */}
-          <Link className='portfolio__item' to={'/shop'}>
+          <Link className='portfolio__item' to={'/cambodia'}>
             <img src='../images/kids.jpg' alt='' className='portfolio__img' />
           </Link>
         </div>
